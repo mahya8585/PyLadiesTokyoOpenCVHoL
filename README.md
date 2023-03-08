@@ -9,4 +9,8 @@ demo的な顔判定処理
 pyladies caravan in 愛媛 リターンズで使用するコンテンツ
 画像加工処理サマリー + 顔判定処理(愛媛版)
 
+## OpenCV osaka
+pyladies caravan in 大阪 で使用するコンテンツ    
+Google Colab上で実行することを想定して作ってあります。    
+利用する際はipynbファイルと同じディレクトリに配置されているファイルをcolabのファイルディレクトリに全部アップロードしてからスタートしてください
 
