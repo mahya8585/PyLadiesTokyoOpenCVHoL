@@ -14,3 +14,9 @@ pyladies caravan in 大阪 で使用するコンテンツ
 Google Colab上で実行することを想定して作ってあります。    
 利用する際はipynbファイルと同じディレクトリに配置されているファイルをcolabのファイルディレクトリに全部アップロードしてからスタートしてください
 
+
+## OpenCV Aomori
+PyLadies Caravan in 青森 で使用するコンテンツ
+ローカルVSCodeで実行することを想定して作成してあります。
+
+
