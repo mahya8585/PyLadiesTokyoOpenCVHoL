@@ -1,10 +1,9 @@
-<<<<<<< Updated upstream
 ---
 marp: false
 theme: gaia
 size: 16:9
 paginate: true
-footer: 2023-12-16 PyLadies Caravan in 愛知
+footer: 2024-05-11 PyLadies Caravan in 青森
 ---
 
 # Open CVで顔判定してみよう 
@@ -20,9 +19,12 @@ footer: 2023-12-16 PyLadies Caravan in 愛知
 - PyLadies Tokyo運営の人
 - PyLadies Caravan運営の人
 - 推しライブラリ：Pillow, BeautifulSoup
-- 推し酒：Bread & Butter シャルドネ
+- 推し酒：ワイン・日本酒・クラフトビール
 - 推しキャラ：デイジーダック
-- 最近がんばったこと: PyCon HK で発表してきた
+- 最近がんばってること: 現在セルフワールドツアー(不可抗力)開催中
+  - 熱海 -> 大阪 -> ミュンヘン -> 神戸 -> 京都 -> 青森 (イマココ)
+  - 青森 -> ピッツバーグ -> 下田 -> fin.
+  - (ここまでが1カ月)
 
 ---
 
@@ -43,50 +45,4 @@ footer: 2023-12-16 PyLadies Caravan in 愛知
 #### https://github.com/mahya8585/PyLadiesTokyoOpenCVHoL
 
 ↑をcloneもしくはダウンロード出来たら、   
-=======
----
-marp: false
-theme: gaia
-size: 16:9
-paginate: true
-footer: 2023-12-16 PyLadies Caravan in 愛知
----
-
-# Open CVで顔判定してみよう 
-# Hands on Lab
-### <div style="text-align:right">@maaya8585</div>
-![height:350px](https://media.connpass.com/thumbs/90/49/90490e2cc122483e1c3a7febd3de0dca.png)
-
----
-![bg right:25% fit](https://avatars.githubusercontent.com/u/10239748?v=4)
-
-# Maaya Ishida  @maaya8585
-
-- PyLadies Tokyo運営の人
-- PyLadies Caravan運営の人
-- 推しライブラリ：Pillow, BeautifulSoup
-- 推し酒：Bread & Butter シャルドネ
-- 推しキャラ：デイジーダック
-- 最近がんばったこと: PyCon HK で発表してきた
-
----
-
-# OpenCV とは??
-![bg width:40% opacity:.1](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/440px-OpenCV_Logo_with_text_svg_version.svg.png)
-
-- OPEN source Computer Vision library
-  - つまり画像解析向けのライブラリキット
-- 1999年開発開始
-- Pythonの他 C++, Java, MATLAB版がある
-- 単純な画像処理からモーション・物体解析、機械学習までさまざまな画像にまつわる処理機能を搭載
-
----
-#
-#
-## さっそく実際に触りながら学んでいきましょう～
-
-#### https://github.com/mahya8585/PyLadiesTokyoOpenCVHoL
-
-↑をcloneもしくはダウンロード出来たら、   
->>>>>>> Stashed changes
-「pyladies-caravan-aichi」ディレクトリを開いてね
+「pyladies-caravan-aomori」ディレクトリを開いてね
